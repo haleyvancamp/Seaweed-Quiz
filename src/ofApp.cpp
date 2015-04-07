@@ -12,7 +12,7 @@ void ofApp::setup(){
     darkBlue.g = 28;
     darkBlue.b = 126;
     limeGreen.r = 46; // lime green color
-    limeGreen.g = 252;
+    limeGreen.g = 250;
     limeGreen.b = 35;
 }
 
